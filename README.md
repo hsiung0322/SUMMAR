@@ -17,7 +17,8 @@ IDF是處理每一個「詞」在所有「文件」中的問題
 ![](https://miro.medium.com/max/474/1*ftlOXgoIe3W6LL3fmFEhOg.png)
 
 #### 介紹影片
-[![](./resourse/summar_youtube.jpg)](http://www.youtube.com/watch?v=jNQXAC9IVRw)
+[![](./resourse/summar_youtube.jpg)](https://www.youtube.com/watch?v=sV9QgHC127U&t=1s)
+
 #### 系統特色
 1. An articles summarize on Android
 2. Use NoSQL with MongoDB
